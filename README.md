@@ -1,19 +1,22 @@
 1. Project Title : Personal Money Manager (Expense Tracker)
-overview of this project:-  This Personal Expense Tracker is a Python desktop app using Tkinter (GUI) and SQLite (storage). It is used to summarize expenses, view the total summary, see a category-wise spending breakdown, and view / delate specific records by ID. It is a simple local tool for managing your expenses.
 
+overview of this project:-  This Personal Expense Tracker is a Python desktop app using Tkinter (GUI) and SQLite (storage). It is used to summarize expenses, view the total summary, see a category-wise spending breakdown, and view / delate specific records by ID. It is a simple local tool for managing your expenses.
 
 features:--
 1.total summary
 2.view all records
 3.fix mistakes
+
 technologies/tools used:-
 1.python 3.x
 2.GUI Framework
 3.SQlite3
+
 steps to install & run the project:-
 1.install "python"
 2.save the file: abc.py
 3.Run the script of the code
+
 instruction for testing:-
 1. Valid Entry: enter a category , a amount (example-200) and a description and click to the Add Expense.
 2. invaild amount: try to entering text (example-five hundred) in the amount,alsoo enterning zero to the amount and click Add Expenses in which expected result will be "amount must be a valid number".
@@ -22,6 +25,7 @@ instruction for testing:-
 5. view Breakdown: enter atleast three expenses across two different categories and then click to category breakdown.
 6. view record: enter a few more expenses and then click to view all records and this result will be table of entires your expenses.
 7. delete recors:delete by id and then write a id which you want to delete and then click to delete afther this a "success" message confirmation the deletion.
+   
 <img width="1919" height="1079" alt="Screenshot 2025-11-23 192229" src="https://github.com/user-attachments/assets/7a197617-6ad4-454f-8244-2ecf3d3cee7d" />
 <img width="1919" height="992" alt="Screenshot 2025-11-23 192244" src="https://github.com/user-attachments/assets/f0272a41-0976-444d-a605-ff0ecd1027f0" />
 <img width="1918" height="1012" alt="Screenshot 2025-11-23 192258" src="https://github.com/user-attachments/assets/1e2ae943-b5d0-4c6a-85b0-92bbf7205954" />
