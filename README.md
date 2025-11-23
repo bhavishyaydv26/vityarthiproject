@@ -3,18 +3,26 @@ Project Title : Personal Expense Tracker
 Overview of the project:-  This Personal Expense Tracker is a Python desktop app using Tkinter (GUI) and SQLite (storage). It is used to summarize expenses, view the total summary, see a category-wise spending breakdown, and view / delate specific records by ID. It is a simple local tool for managing your expenses.
 
 Features:--
+
 1.total summary
+
 2.view all records
+
 3.fix mistakes
 
 Technologies/Tools used:-
-1.python 3.x
-2.GUI Framework
-3.SQlite3
 
+1.python 3.x
+
+2.GUI Framework
+
+3.SQlite3
 Steps to install & run the project:-
+
 1.install "python"
+
 2.save the file: abc.py
+
 3.Run the script of the code
 
 Instruction for testing:-
