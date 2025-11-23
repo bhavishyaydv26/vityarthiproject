@@ -1,23 +1,23 @@
 Project Title : Personal Money Manager (Expense Tracker)
 
-overview of this project:-  This Personal Expense Tracker is a Python desktop app using Tkinter (GUI) and SQLite (storage). It is used to summarize expenses, view the total summary, see a category-wise spending breakdown, and view / delate specific records by ID. It is a simple local tool for managing your expenses.
+OVERVIEW OF THIS PROJECT:-  This Personal Expense Tracker is a Python desktop app using Tkinter (GUI) and SQLite (storage). It is used to summarize expenses, view the total summary, see a category-wise spending breakdown, and view / delate specific records by ID. It is a simple local tool for managing your expenses.
 
-features:--
+Features:--
 1.total summary
 2.view all records
 3.fix mistakes
 
-technologies/tools used:-
+Technologies/Tools used:-
 1.python 3.x
 2.GUI Framework
 3.SQlite3
 
-steps to install & run the project:-
+Steps to install & run the project:-
 1.install "python"
 2.save the file: abc.py
 3.Run the script of the code
 
-instruction for testing:-
+Instruction for testing:-
 1. Valid Entry: enter a category , a amount (example-200) and a description and click to the Add Expense.
 2. invaild amount: try to entering text (example-five hundred) in the amount,alsoo enterning zero to the amount and click Add Expenses in which expected result will be "amount must be a valid number".
 3. income entry: select the income category and enter a negative amount and then click to the Add Expense.
