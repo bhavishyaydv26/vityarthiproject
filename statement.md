@@ -10,6 +10,8 @@ Target users:-
 2.Students/Academics: Demonstrates a practical application of Python GUI development,data structure.
 
 High-level features:-
-1.Expense data management:-provides the fundamental capabilities to create(add),Read(view) and delete transactions
-2.Instant total:-you can immediately see the total of all the money you are spending from your record
+1.Expense data management:-provides the fundamental capabilities to create(add),Read(view) and delete transactions.
+
+2.Instant total:-you can immediately see the total of all the money you are spending from your record.
+
 3.Spending Reports:-This will show a clear breakdown report showing exactly how much money you spent in each category.
