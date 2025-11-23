@@ -6,6 +6,7 @@ This project is a simple computer program only for managning your personal spend
 
 Target users:-
 1.target users is a simple tool to manage money and see thier spending on rent,food,bill and entertainment without needing complex features.
+
 2.Students/Academics: Demonstrates a practical application of Python GUI development,data structure.
 
 High-level features:-
